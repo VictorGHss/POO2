@@ -1,4 +1,4 @@
-package aula01_10_03_26.ex02;
+package aula01_10_03.ex02;
 
 public class Professor extends Pessoa{
     private double salarioBase;

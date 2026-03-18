@@ -1,4 +1,4 @@
-package aula01_10_03_26.exemplo;
+package aula01_10_03.exemplo;
 
 public class PedidoTeste {
     public static void main(String[] args) {

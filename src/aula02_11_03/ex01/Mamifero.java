@@ -1,4 +1,4 @@
-package aula02_11_03_26.ex01;
+package aula02_11_03.ex01;
 
 public abstract class Mamifero{
     protected String nome;

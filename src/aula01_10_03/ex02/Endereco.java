@@ -1,4 +1,4 @@
-package aula01_10_03_26.ex01;
+package aula01_10_03.ex02;
 
 public class Endereco {
     protected String logradouro;
